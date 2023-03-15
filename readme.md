@@ -20,7 +20,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=nrg-builds)](https://github.com/nrg-builds)
 
 #### Other Social Medias
-🐦 [Twitter](https://twitter.com/nrg_build) | 💼 [LinkedIn](https://www.linkedin.com/in/oscar-1ms/) | 📧 [Email](mailto: emmanuelomolaju964@gmail.com)
+🐦 [Twitter](https://twitter.com/nrg_build) | 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-omolaju-747708248) | 📧 [Email](mailto: emmanuelomolaju964@gmail.com)
  
 
 -----
