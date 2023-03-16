@@ -1,7 +1,7 @@
 # NRG === Energy
 ### Hi there 👋
 * Welcome to my playground, feel free to check out my 🌐 [website](https://nrg.netlify.app) :P.
-**Please note:** *You can find other projects listed under my ["portfolio" repository](https://github.com/nrg-builds/portfolio). I call them "sub-repos
+* **Please note:** *You can find other projects listed under my ["portfolio" repository](https://github.com/nrg-builds/portfolio). I call them "sub-repos"*
 #### Current Working on
 * [Sharon Agribusiness](https://github.com/nrg-builds/sharon-test) - *A simple landing page and store for an agribusiness company*
 * [A Weather App](https://github.com/nrg-builds/weather) - *An online weather forecast app powered by weatherAPI.*
