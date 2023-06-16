@@ -13,7 +13,7 @@
 * ✨ Vanilla | Tailwind CSS | Bootstrap
 
 #### Some Completed Stuff
-* [Movie Information App](https://github.com/nrg-builds.io/movie-app) - *A simple site for getting info on latest movies along with their trailers*
+* [Movie Information App](https://nrg-movieroom.netlify.app) - *A simple site for getting info on latest movies along with their trailers*
 * [NRG Portfolio](https://nrg.netlify.app) - *My portfolio hosted on Netlify*
 * [A Fashion Store](https://nrg-portfolio.netlify.app/shizzabelle) - *A JavaScript powered online fashion store*
 
