@@ -4,7 +4,8 @@
 * **Please note:** *You can find other projects listed under my ["portfolio" repository](https://github.com/nrg-builds/portfolio). I call them "sub-repos"*
 #### Current Working on
 * [Sharon Agribusiness](https://github.com/nrg-builds/sharon-test) - *A simple landing page and store for an agribusiness company*
-* [A Weather App](https://github.com/nrg-builds/weather) - *An online weather forecast app powered by weatherAPI.*
+* [Winners Campus Fellowship, FUTA](https://wcffuta.netlify.app) - *A website for a student fellowship.*
+
 
 
 #### My Current Set Of Tools
@@ -13,9 +14,8 @@
 * ✨ Vanilla | Tailwind CSS | Bootstrap
 
 #### Some Completed Stuff
-* [Movie Information App](https://nrg-movieroom.netlify.app) - *A simple site for getting info on latest movies along with their trailers*
+* [Movie Information App](https://nrg-movierooom.netlify.app) - *A simple site for getting info on latest movies along with their trailers*
 * [NRG Portfolio](https://nrg.netlify.app) - *My portfolio hosted on Netlify*
-* [A Fashion Store](https://nrg-portfolio.netlify.app/shizzabelle) - *A JavaScript powered online fashion store*
 
  #### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=nrg-builds)](https://github.com/nrg-builds)
@@ -27,4 +27,4 @@
 -----
 Credits: [blue-1ms](https://github.com/blue-1ms)
 
-Last Edited on: 15/03/2023
+Last Edited on: 30/07/2023
