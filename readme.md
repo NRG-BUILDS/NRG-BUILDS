@@ -18,7 +18,7 @@
 * [NRG Portfolio](https://nrg-portfolio.app) - *My portfolio hosted on Netlify*
 
  #### Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=nrg-builds)](https://github.com/nrg-builds)
+![NRG's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrg-builds&show_icons=true&theme=transparent)
 
 #### Other Social Medias
 🐦 [Twitter](https://twitter.com/nrg_build) | 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-omolaju-747708248) | 📧 [Email](mailto: emmanuelomolaju964@gmail.com)
