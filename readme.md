@@ -20,7 +20,7 @@
  #### Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NRG-BUILDS&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=NRG-BUILDS&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
+
 <br>
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=NRG-BUILDS&theme=github-dark" />
 <br>
